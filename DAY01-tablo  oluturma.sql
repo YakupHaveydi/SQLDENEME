@@ -31,7 +31,7 @@ INSERT INTO ogrenciler2(isim,soyisim)VALUES ('Yakup','Haveydi');
 -- DQL - DATA OUERY LANG.
 --SELECT 
 
-select * FROM ogrenciler2;--buradaki * sembolu herseyi anlamindadir.
+select * FROM ogrenciler2;--buradaki * sembolu hersey anlamindadir.
 
 
 
